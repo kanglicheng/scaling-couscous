@@ -1,0 +1,2 @@
+# scaling-couscous
+learning rust
